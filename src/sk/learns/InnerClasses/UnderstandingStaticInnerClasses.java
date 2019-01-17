@@ -5,9 +5,9 @@
  * Date: 30-December-2018
  */
 
-package JavaBasics;
+package sk.learns.InnerClasses;
 
-import JavaBasics.OuterClass.InnerClass;
+import sk.learns.InnerClasses.OuterClass.InnerClass;
 
 class OuterClass {
 
